@@ -1,5 +1,5 @@
 # test
-test repository "Hello", initial master branch
+test repository "Hello World", initial master branch
 ==============================================
 CHANGED MASTER    
 updated in branch-4
